@@ -13,7 +13,11 @@ Contents:
 
    sphinx
    git
+<<<<<<< HEAD
    emptyfile
+=======
+   example
+>>>>>>> 79d456f21e1f95928cb45f195d13125440fe5685
 
 
 
